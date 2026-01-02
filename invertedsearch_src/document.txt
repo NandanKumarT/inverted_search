@@ -1,0 +1,4 @@
+/* Name        : Nandan Kumar T
+   Date        : 02/01/2026
+   Description : Inverted Search
+*/
